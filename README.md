@@ -1,5 +1,3 @@
-# Şeyma
-
 Management Information Systems student with experience in JavaScript and Python.  
 Passionate about learning new technologies and building meaningful projects.  
 Open to collaboration.  
@@ -19,19 +17,10 @@ Open to collaboration.
 
 ## =^.^= Connect
 
-/ᐠ｡‸｡ᐟ\ [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-/ᐠ｡‸｡ᐟ\ Email: your-email@example.com  
-
-Or with badges:  
-
-![Cat Paw](https://img.shields.io/badge/LinkedIn-🐾-blue?style=for-the-badge)  
-![Cat Paw](https://img.shields.io/badge/Email-🐾-green?style=for-the-badge)
+/ᐠ｡‸｡ᐟ\ Email: seyma.koltuklu@gmail.com  
 
 ---
 
-## =^.^= GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 
 <!--
