@@ -2,24 +2,10 @@ Management Information Systems student with experience in JavaScript and Python.
 Passionate about learning new technologies and building meaningful projects.  
 Open to collaboration.  
 
----
-
-## =^.^= Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-orange)
-![C#](https://img.shields.io/badge/C%23-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB)
-![CSS](https://img.shields.io/badge/CSS-1572B6)
-
----
-
-## =^.^= Connect
+## Connect
 
 /ᐠ｡‸｡ᐟ\ Email: seyma.koltuklu@gmail.com  
 
----
 
 
 
